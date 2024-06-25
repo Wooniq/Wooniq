@@ -13,8 +13,8 @@
 <summary>I am...</summary>
 <br><br>
 <span>
-  <a href="https://Hjwoon.github.io](https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
-    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+    <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
   </a>
 </span>
 <span>
