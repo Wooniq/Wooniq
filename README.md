@@ -29,6 +29,36 @@
 </span>
 <br><br>
 
+---
+
+## 👤 About Me
+
+**Name:** Han Ji-woon  
+**Date of Birth:** July 5, 2003
+
+## 🎓 Education
+
+### Hansung University
+ **Department:** Computer Science<br>
+ **Enrollment Period:** March 2022 - Present
+
+## 🚀 Experience
+
+### 멋쟁이사자처럼 한성대학교
+ **Role:** 백엔드 트랙 아기사자<br>
+ **Period:** March 2024 - Present
+
+### 한성대학교 HSD 앱 서버 근로
+ **Role:** Student Worker<br>
+ **Period:** June 2024 - Present
+
+---
+
+🩶Feel free to contact me for collaboration or inquiries!🩶
+
+
+
+
 ## ⚡Skills⚡
 
 ### Platforms & Languages
@@ -38,6 +68,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+<!-- Spring Boot -->
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot"/>
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+
+<!-- Thymeleaf -->
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/>
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -46,7 +85,16 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+<!-- Notion -->
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
 
+<!-- Adobe Premiere Pro -->
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+<!-- Postman -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+
+<!-- PyCharm -->
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
 
 
 </div>
