@@ -12,6 +12,7 @@
 <details>
 <summary>I am...</summary>
 <br><br>
+    
 <span>
     <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
@@ -111,6 +112,10 @@
   
 <!-- My snake -->
 <img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
+
+<br><br>
+<!-- PS level -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
 
 <br><br>
 <!-- Hit counter -->
