@@ -34,7 +34,7 @@
 
 ## 👤 About Me
 
-**Name:** Han Ji-woon  
+**Name:** Han Ji-Woon  
 **Date of Birth:** July 5, 2003
 
 ## 🎓 Education
