@@ -111,7 +111,7 @@
 
   
 <!-- My snake -->
-<img src="https://github.com/junia3/junia3/blob/output/mysnake.svg" width="100%">
+![snake gif](https://github.com/Hjwoon/Hjwoon/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 <!-- PS level -->
