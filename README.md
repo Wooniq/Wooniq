@@ -1,11 +1,8 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
-    
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+JiWoon+Han;Better+Than+Yesterday !" alt="Typing SVG" /></a>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Code%20Unleashed&fontAlign=70&fontAlignY=25&desc=Harness%20the%20Power%20Within&descAlign=70&descAlignY=44&fontColor=white" />
+
+
 <div align="center">  
 
 <br>
@@ -33,9 +30,7 @@
 
 ## 👤 About Me
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=57636B&width=435&lines=Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
 
 **Name:** Han Ji-Woon  
 **Date of Birth:** July 5, 2003
@@ -55,14 +50,18 @@
 ### 한성대학교 HSD 앱 서버 근로
  **Role:** Student Worker<br>
  **Period:** June 2024 - Present
+<br>
+<!-- PS level -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
 
----
 
 🩶Feel free to contect Me !🩶
 
 </div>
 
 </details>
+
+<br><br>
 
 <div align="center">
 
@@ -102,10 +101,6 @@
   
 <!-- My snake -->
 ![snake gif](https://github.com/Hjwoon/Hjwoon/blob/output/github-contribution-grid-snake.svg)
-
-<br><br>
-<!-- PS level -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
 
 <br><br>
 <!-- Hit counter -->
