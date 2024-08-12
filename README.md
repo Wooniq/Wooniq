@@ -7,11 +7,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+JiWoon+Han;Better+Than+Yesterday !" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
+
 <br>
 <!-- My CV/resume -->
 <details>
-<summary>^ ̳. ̫ . ̳^<br>Click Here !</summary>
-<br><br>
+<summary>Click Here !</summary>
+<br>
     
 <span>
     <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
@@ -30,9 +31,11 @@
 </span>
 <br><br>
 
----
-
 ## 👤 About Me
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=57636B&width=435&lines=Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
+
 
 **Name:** Han Ji-Woon  
 **Date of Birth:** July 5, 2003
@@ -55,7 +58,8 @@
 
 ---
 
-🩶재밌는 일 찾기🩶
+🩶Feel free to contect Me !🩶
+
 </div>
 
 </details>
@@ -64,7 +68,7 @@
 
 ## ⚡Skills⚡
 
-### Platforms & Languages
+### 📝Platforms & Languages
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
@@ -73,7 +77,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/>
 
-### Tools
+### 🔧Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white"><br>
