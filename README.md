@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Code%20Unleashed&fontAlign=70&fontAlignY=25&desc=Harness%20the%20Power%20Within&descAlign=70&descAlignY=44&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=I'm%20JiWoon%20Han&fontAlign=70&fontAlignY=25&desc=Code%20My%20Excitement%20!&descAlign=70&descAlignY=44&fontColor=white" />
 
 
 <div align="center">  
