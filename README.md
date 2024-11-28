@@ -2,74 +2,29 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=I'm%20JiWoon%20Han&fontAlign=70&fontAlignY=25&desc=Code%20My%20Excitement%20!&descAlign=70&descAlignY=44&fontColor=white" />
 
+<div align="left">
 
-<div align="center">  
-
-<br>
-<!-- My CV/resume -->
-<details>
-<summary>Click Here !</summary>
-<br>
-    
-<span>
-    <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:intothexx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/7h.05m/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<br><br>
-
-## 👤 About Me
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
-
-**Name:** Han Ji-Woon  
-**Date of Birth:** July 5, 2003
-
-## 🎓 Education
-
-### Hansung University
- **Department:** Computer Science<br>
- **Enrollment Period:** March 2022 - Present
-
-## 🚀 Experience
-
-### 멋쟁이사자처럼 한성대학교
- **Role:** 백엔드 트랙 아기사자<br>
- **Period:** March 2024 - Present
-
-### 한성대학교 HSD 앱 서버 근로
- **Role:** Student Worker<br>
- **Period:** June 2024 - Present
-<br>
-<!-- PS level -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
+### 🎓 Education
+> 2022.03 - Senior in Computer Engineering, Hansung University
 
 
-🩶Feel free to contect Me !🩶
+### 📝 Publications
+* [논문1] [EPUB 리더기의 GraphRAG 활용에 관한 연구.pdf](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
+* [논문2] [GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더 시스템 v1.3.pdf](https://github.com/user-attachments/files/17943961/GraphRAG.EPUB.v1.3.pdf)
 
-</div>
 
-</details>
+### 🏆 Awards
+* [2024.11.27] 2024 SW FETIVAL(SW중심대학사업단) **장려상** </br>
+* [2024.09.25 ~ 26] 제20회 한성대학교 공학경진대회 **은상** </br>
+* [2024.05.30] 한성대학교 교내 해커톤 **최우수상** </br>
 
-<br><br>
+
+### ✨ Project
+> 2024.09 - 2024.11 SW산학협력 프로젝트 </br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**GraphRAG를 활용한 Epub Reader** </br>
 
 <div align="center">
-
-## 🏆 Awards & Achievements
-
-<i>- **장려상** - SW FESTIVAL, SW중심대학사업단 (2024.11) </i><br>
-<i>- **은상** - 제20회 한성공학경진대회 (2024.09) </i><br>
-<i>- **최우수상** - 교내 해커톤, 부기톤(2024.05) </i>
 
 ## ⚡Skills⚡
 
@@ -104,6 +59,60 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hjwoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hjwoon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
+<div align="center">  
+
+<br>
+<!-- My CV/resume -->
+<details>
+<summary>Click Here !</summary>
+<br>
+    
+<span>
+    <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="mailto:intothexx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.instagram.com/7h.05m/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
+<br><br>
+
+## 👤 About Me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
+
+**Name:** Han Ji-Woon  
+**Date of Birth:** July 5, 2003
+
+
+## 🚀 Experience
+
+### 멋쟁이사자처럼 한성대학교
+ **Role:** 백엔드 트랙 아기사자<br>
+ **Period:** March 2024 - Present
+
+### 한성대학교 HSD 앱 서버 근로
+ **Role:** Student Worker<br>
+ **Period:** June 2024 - Present
+<br>
+<!-- PS level -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
+
+
+🩶Feel free to contect Me !🩶
+
+</div>
+
+</details>
+
+<br><br>
   
 <!-- My snake -->
 ![snake gif](https://github.com/Hjwoon/Hjwoon/blob/output/github-contribution-grid-snake.svg)
