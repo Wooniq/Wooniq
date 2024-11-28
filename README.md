@@ -19,11 +19,6 @@
 * [2024.05.30] 한성대학교 교내 해커톤 **최우수상** </br>
 
 
-### ✨ Project
-> 2024.09 - 2024.11 SW산학협력 프로젝트 </br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;**GraphRAG를 활용한 Epub Reader** </br>
-
 <div align="center">
 
 ## ⚡Skills⚡
