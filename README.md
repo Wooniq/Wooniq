@@ -19,18 +19,29 @@
 * [2024.05.30] 한성대학교 교내 해커톤 **최우수상** </br>
 
 
-<div align="center">
+### 🚀 Experience
 
-## ⚡Skills⚡
+#### 멋쟁이사자처럼 한성대학교
+*  **Role:** 백엔드 트랙 아기사자<br>
+*  **Period:** March 2024 - December 2024
 
+#### 한성대학교 HSD 앱 서버 근로
+*  **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
+*  **Period:** June 2024 - August 2024
+
+### ⚡Skills
 ### 📝Platforms & Languages
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)<br>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+<br>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Graph%20DB-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" alt="Graph DB"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3.js"/>
 
 ### 🔧Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -44,11 +55,18 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
 
-</div>
 
+## 💡 Interests
+- 🌱 **Spring Boot**
+- 💻 **Server Development**
+- 🔍 **RAG (Retrieval-Augmented Generation)**
+- 🌐 **GraphRAG**
+- 📊 **Big Data**
+- ⚙️ **Distributed Systems**
+- ☁️ **Cloud Computing**
 
 <br><br>
-<div align="center">
+
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjwoon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=Hjwoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
@@ -86,20 +104,13 @@
 **Name:** Han Ji-Woon  
 **Date of Birth:** July 5, 2003
 
-
-## 🚀 Experience
-
-### 멋쟁이사자처럼 한성대학교
- **Role:** 백엔드 트랙 아기사자<br>
- **Period:** March 2024 - Present
-
-### 한성대학교 HSD 앱 서버 근로
- **Role:** Student Worker<br>
- **Period:** June 2024 - Present
 <br>
 <!-- PS level -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705)](https://solved.ac/agn705/)
-
+<div align="center">
+  <a href="https://solved.ac/agn705/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=agn705" alt="Solved.ac Profile" />
+  </a>
+</div>
 
 🩶Feel free to contect Me !🩶
 
