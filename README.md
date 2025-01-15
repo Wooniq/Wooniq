@@ -29,7 +29,14 @@
   **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
  **Period:** June 2024 - August 2024
 
-<hr>
+<div align="center">  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Wooniq&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Wooniq"
+    width="600"
+    height="120"
+  />
+</a></div>
 
 ### ⚡Skills
 
