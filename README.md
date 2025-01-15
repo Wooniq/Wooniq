@@ -60,7 +60,7 @@
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjwoon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=Hjwoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hjwoon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Woon-gineer&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <div align="center">  
 
@@ -91,7 +91,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
 
-**Name:** Han Ji-Woon  
+**Name:** Han JiWoon  
 **Date of Birth:** July 5, 2003
 
 <br>
@@ -111,11 +111,12 @@
 <br><br>
   
 <!-- My snake -->
-![snake gif](https://github.com/Hjwoon/Hjwoon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Woon-gineer/Hjwoon/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjwoon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjwoon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/></div>
 <br><br><br><br>
 
 <!-- Footer banner -->
