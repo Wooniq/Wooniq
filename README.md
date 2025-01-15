@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=I'm%20JiWoon%20Han&fontAlign=70&fontAlignY=25&desc=Code%20My%20Excitement%20!&descAlign=70&descAlignY=44&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=⚡Wooniq&fontAlign=70&fontAlignY=25&desc=Where%20creativity%20meets%20code.&descAlign=70&descAlignY=44&fontColor=white" />
 
 <div align="left">
 
@@ -59,8 +59,8 @@
 
 <!-- My profile -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjwoon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=Woon-gineer&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Woon-gineer&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wooniq&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wooniq&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <div align="center">  
 
@@ -89,7 +89,7 @@
 
 ## 👤 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Have+a+healthy+disregard+for+the+impossible.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Code+my+Excitement!)](https://git.io/typing-svg)
 
 **Name:** Han JiWoon  
 **Date of Birth:** July 5, 2003
@@ -111,7 +111,7 @@
 <br><br>
   
 <!-- My snake -->
-![snake gif](https://github.com/Woon-gineer/Woon-gineer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Wooniq/Wooniq/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 <!-- Hit counter -->
@@ -124,7 +124,7 @@
 </div>
 
 <!--
-**Hjwoon/Hjwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wooniq/Wooniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
