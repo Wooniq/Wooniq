@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=⚡Wooniq&fontAlign=70&fontAlignY=25&desc=Where%20creativity%20meets%20code.&descAlign=70&descAlignY=44&fontColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Hi%20there!&fontAlign=70&fontAlignY=25&desc=I'm%20JiWoon%20Han&descAlign=70&descAlignY=44&fontColor=white" />
 
 <div align="left">
 
@@ -28,15 +28,6 @@
 * #### 한성대학교 HSD 앱 서버 근로
   **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
  **Period:** June 2024 - August 2024
-
-<div align="center">  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Wooniq&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Wooniq"
-    width="600"
-    height="120"
-  />
-</a></div>
 
 ### ⚡Skills
 
@@ -119,6 +110,15 @@
   
 <!-- My snake -->
 ![snake gif](https://github.com/Wooniq/Wooniq/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Wooniq&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Wooniq"
+    width="600"
+    height="120"
+  />
+</a></div>
 
 <br><br>
 <!-- Hit counter -->
