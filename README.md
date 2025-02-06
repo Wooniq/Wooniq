@@ -5,6 +5,8 @@
 <div align="left">
 
 ## ✊ 이뤄내는 개발자 한지운 입니다!
+I'm a passionate developer who strives to create meaningful and innovative solutions. I specialize in backend development with **Spring Boot**, **Neo4j**, and **Docker**, and I'm deeply interested in **GraphRAG**, **big data**, **distributed systems**, and **cloud computing**. Currently, I'm working on **an On-Device AI-powered video call application** in collaboration **with Qualcomm**. I enjoy solving complex problems and continuously learning new technologies to improve my skills.
+**Feel free to reach out to me!**
 
 
 ### 🎓 Education
