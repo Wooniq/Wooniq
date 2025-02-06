@@ -4,11 +4,14 @@
 
 <div align="left">
 
+## ✊ 이뤄내는 개발자 한지운 입니다
+
+
 ### 🎓 Education
 > 2022.03 - Senior in Computer Engineering, Hansung University
 
 
-## 📝 Publications
+### 📝 Publications
 - **[논문1]** 📖 **EPUB 리더기의 GraphRAG 활용에 관한 연구**  
   🔗 [Download PDF](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
 
