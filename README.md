@@ -16,7 +16,8 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 - **[논문1]** 📖 [**EPUB 리더기의 GraphRAG 활용에 관한 연구**](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
 
 - **[논문2]** 📖 [**GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더**](https://github.com/user-attachments/files/18278657/GraphRAG.EPUB.pdf)  
-  📑 Published in a **KCI (Korea Citation Index) indexed journal**  
+  📑 Published in a **KCI (Korea Citation Index) indexed journal**   
+  🔗[Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003160624)
 
 
 ### 🏆 Awards
