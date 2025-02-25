@@ -47,13 +47,13 @@ I'm a highly driven developer striving to create meaningful and innovative solut
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/></a>
-  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
   <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white"/></a>
+  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
 </p>
 
