@@ -71,6 +71,7 @@ I'm a highly driven developer striving to create meaningful and innovative solut
   <a href="https://www.ontotext.com/products/graphdb/"><img src="https://img.shields.io/badge/GraphDB-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
   <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=flat-square&logo=d3.js&logoColor=white"/></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>
 </p>
 
 <p align="center">
