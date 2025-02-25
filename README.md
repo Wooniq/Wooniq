@@ -41,24 +41,40 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 ### ⚡Skills
 
  #### 📝Platforms & Languages
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Neo4j](https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![ArangoDB](https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white)](https://www.arangodb.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
+<br>
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23007396.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rds/)
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
 
- ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
+
 
  #### 🔧Tools
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white" alt="Neo4j"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white" alt="D3.js"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GraphDB](https://img.shields.io/badge/GraphDB-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white)](https://www.ontotext.com/products/graphdb/)
+[![D3.js](https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+<br>
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Tistory](https://img.shields.io/badge/Tistory-%23FF5722.svg?style=flat-square&logo=tistory&logoColor=white)](https://www.tistory.com/)
+
+
+
 
 ## 💡 Interests
 - 🌱 **Spring Boot**
 - 💻 **Server Development**
 - 🔍 **RAG (Retrieval-Augmented Generation)**
 - 🌐 **GraphRAG**
-- 📊 **Big Data**
 - ⚙️ **Distributed Systems**
 - ☁️ **Cloud Computing**
 
