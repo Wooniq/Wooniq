@@ -38,34 +38,46 @@ I'm a highly driven developer striving to create meaningful and innovative solut
   **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
  **Period:** June 2024 - August 2024
 
-### ⚡Skills
 
- #### 📝Platforms & Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Neo4j](https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![ArangoDB](https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white)](https://www.arangodb.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
-<br>
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/ec2/)
-[![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23007396.svg?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/rds/)
-[![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+<h3 align="center">⚡Skills</h3>
 
+<h4 align="center">📝Platforms & Languages</h4>
 
+<p align="center">
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/></a>
+  <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
+</p>
 
- #### 🔧Tools
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GraphDB](https://img.shields.io/badge/GraphDB-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white)](https://www.ontotext.com/products/graphdb/)
-[![D3.js](https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=flat-square&logo=d3.js&logoColor=white)](https://d3js.org/)
-[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-<br>
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Tistory](https://img.shields.io/badge/Tistory-%23FF5722.svg?style=flat-square&logo=tistory&logoColor=white)](https://www.tistory.com/)
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white"/></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/rds/"><img src="https://img.shields.io/badge/AWS%20RDS-%23007396.svg?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazons3&logoColor=white"/></a>
+</p>
+
+<h4 align="center">🔧Tools</h4>
+
+<p align="center">
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="https://www.ontotext.com/products/graphdb/"><img src="https://img.shields.io/badge/GraphDB-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
+  <a href="https://d3js.org/"><img src="https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=flat-square&logo=d3.js&logoColor=white"/></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://www.tistory.com/"><img src="https://img.shields.io/badge/Tistory-%23FF5722.svg?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
 
 
 
