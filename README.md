@@ -5,7 +5,7 @@
 <div align="left">
 
 ## ✊ 이뤄내는 개발자 한지운 입니다!
-I'm a highly driven developer striving to create meaningful and innovative solutions. I specialize in backend development with **Spring Boot**, **GraphRAG**, and **Docker**, and I have a deep interest in **GraphRAG**, big data, **distributed systems**, and **cloud computing**. Currently, I'm working on an **On-Device AI-powered application** in collaboration with **Qualcomm**. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. Feel free to reach out to me!
+I'm a highly driven developer striving to create meaningful and innovative solutions. I specialize in backend development with **Spring Boot**, **GraphRAG**, and **Docker**, and I have a deep interest in **GraphRAG**, big data, **distributed systems**, and **cloud computing**. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. Feel free to reach out to me!
 
 
 ### 🎓 Education
@@ -46,6 +46,8 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 <p align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://spring.io/projects/spring-framework">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/></a>
   <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
 </p>
