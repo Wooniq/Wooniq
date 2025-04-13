@@ -148,8 +148,8 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 
 <br><br>
   
-<!-- My snake -->
-![snake gif](https://github.com/Wooniq/Wooniq/blob/output/github-contribution-grid-snake.svg)
+<!-- My snake 
+<!--![snake gif](https://github.com/Wooniq/Wooniq/blob/output/github-contribution-grid-snake.svg)-->
 
 <div align="center">  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Wooniq&utm_content=line">
@@ -159,11 +159,6 @@ I'm a highly driven developer striving to create meaningful and innovative solut
     height="120"
   />
 </a></div>
-
-<br><br>
-<!-- Hit counter -->
-<div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjwoon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/></div>
 <br><br><br><br>
 
 <!-- Footer banner -->
