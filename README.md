@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Hi%20there!&fontAlign=70&fontAlignY=25&desc=I'm%20JiWoon%20Han&descAlign=70&descAlignY=44&fontColor=white" />
 
 <!-- Pet Farm -->
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/farms/Wooniq" width="600" height="200" />
+<!--<a href="https://github.com/devxb/gitanimals">-->
+<!--<img src="https://render.gitanimals.org/farms/Wooniq" width="600" height="200" />-->
 </a>
 
 <div align="left">
