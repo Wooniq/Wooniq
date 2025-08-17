@@ -17,6 +17,21 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 > 2022.03 - Senior in Computer Engineering, Hansung University
 
 
+### 🚀 Experience
+
+* #### 컴퓨터공학부 교과 교육 TA조교
+  **Role:** 웹공학 전공 기초 TA<br>
+ **Period:** Sep 2025 - December 2025
+
+* #### 멋쟁이사자처럼 한성대학교
+  **Role:** 백엔드 트랙 아기사자<br>
+ **Period:** March 2024 - December 2024
+
+* #### 한성대학교 HSD 앱 서버 근로
+  **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
+ **Period:** June 2024 - August 2024
+
+
 ### 📝 Publications
 - **[논문1]** 📖 [**EPUB 리더기의 GraphRAG 활용에 관한 연구**](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
 
@@ -32,17 +47,6 @@ I'm a highly driven developer striving to create meaningful and innovative solut
 * [2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL (빅데이터/인공지능 부문) **장려상** </br>
 * [2024.09.25 ~ 26] 제20회 한성대학교 공학경진대회 **은상** </br>
 * [2024.05.30] 한성대학교 교내 해커톤 **최우수상** </br>
-
-
-### 🚀 Experience
-
-* #### 멋쟁이사자처럼 한성대학교
-  **Role:** 백엔드 트랙 아기사자<br>
- **Period:** March 2024 - December 2024
-
-* #### 한성대학교 HSD 앱 서버 근로
-  **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
- **Period:** June 2024 - August 2024
 
 
 <h3 align="center">⚡Skills</h3>
