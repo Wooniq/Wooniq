@@ -10,7 +10,10 @@
 <div align="left">
 
 ## ✊ 이뤄내는 개발자 한지운 입니다!
-I'm a highly driven developer striving to create meaningful and innovative solutions. I specialize in backend development with **Spring Boot**, **GraphRAG**, and **Docker**, and I have a deep interest in **GraphRAG**, big data, **distributed systems**, and **cloud computing**. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. Feel free to reach out to me!
+I am Jiwoon Han, a backend developer dedicated to building reliable and scalable server systems.
+My expertise lies in Spring Boot, Docker, and cloud-based architectures, with strong interests in API design, system performance optimization, and distributed services.
+
+I enjoy tackling challenging problems, writing clean and efficient code, and continuously expanding my skills. With confidence and passion, I strive to deliver meaningful solutions and grow as a professional server developer.
 
 
 ### 🎓 Education
