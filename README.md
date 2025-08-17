@@ -10,8 +10,8 @@
 <div align="left">
 
 ## ✊ 이뤄내는 개발자 한지운 입니다!
-I am Jiwoon Han, a backend developer dedicated to building reliable and scalable server systems.
-My expertise lies in Spring Boot, Docker, and cloud-based architectures, with strong interests in API design, system performance optimization, and distributed services.
+I am Jiwoon Han, a backend developer dedicated to building **reliable and scalable server systems**.
+My expertise lies in **Spring Boot**, **Docker**, and **cloud-based architectures**, with strong interests in **API design**, **system performance optimization**, and **distributed services**.
 
 I enjoy tackling challenging problems, writing clean and efficient code, and continuously expanding my skills. With confidence and passion, I strive to deliver meaningful solutions and grow as a professional server developer.
 
