@@ -1,20 +1,23 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Hi%20there!&fontAlign=70&fontAlignY=25&desc=I'm%20JiWoon%20Han&descAlign=70&descAlignY=44&fontColor=white" />
-
-<!-- Pet Farm -->
-<!--<a href="https://github.com/devxb/gitanimals">-->
-<!--<img src="https://render.gitanimals.org/farms/Wooniq" width="600" height="200" />-->
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=87CEEB&height=200&text=Hi%20there!&fontAlign=70&fontAlignY=25&desc=I'm%20JIWOON%20HAN&descAlign=70&descAlignY=44&fontColor=white" />
 
 <div align="left">
 
-## ✊ 이뤄내는 개발자 한지운 입니다!
-I am Jiwoon Han, a backend developer dedicated to building **reliable and scalable server systems**.
-My expertise lies in **Spring Boot**, **Docker**, and **cloud-based architectures**, with strong interests in **API design**, **system performance optimization**, and **distributed services**.
+## ✊ 리소스는 효율적으로, 서비스는 안정적으로 설계하는 백엔드 개발자 한지운입니다.
 
-I enjoy tackling challenging problems, writing clean and efficient code, and continuously expanding my skills. With confidence and passion, I strive to deliver meaningful solutions and grow as a professional server developer.
+CPU, 메모리, 쿼리 한 번까지 아껴 쓰면서도 **사용자는 느리지 않은 서비스**를 경험하게 하는 것에 집중합니다.  
+과한 스펙 대신, **설계와 튜닝으로 성능을 끌어올리는 백엔드**를 지향합니다.
 
+**Java / Spring / Spring Boot**를 기반으로  
+- **RDB & NoSQL (MySQL, MariaDB, GraphDB)** 데이터 모델링  
+- **JPA** 기반 도메인 설계 및 쿼리 최적화  
+- **AWS EC2, RDS, S3 / Docker / Nginx**를 활용한 배포 · 인프라 구성  
+
+에 강점을 가지고 있으며,  
+“**적은 리소스로도 오래 버티고, 안정적으로 동작하는 서버**”를 만드는 개발자로 성장하고 있습니다.
+
+<br>
 
 ### 🎓 Education
 > 2022.03 - Senior in Computer Engineering, Hansung University
@@ -23,7 +26,7 @@ I enjoy tackling challenging problems, writing clean and efficient code, and con
 ### 🚀 Experience
 
 * #### 컴퓨터공학부 교과 교육 TA조교
-  **Role:** 웹공학 전공 기초 TA<br>
+  **Role:** 전공 기초 TA<br>
  **Period:** Sep 2025 - December 2025
 
 * #### 멋쟁이사자처럼 한성대학교
@@ -96,56 +99,18 @@ I enjoy tackling challenging problems, writing clean and efficient code, and con
 </p>
 
 
-
-
 ## 💡 Interests
-- 🌱 **Spring Boot**
-- 💻 **Server Development**
-- 🔍 **RAG (Retrieval-Augmented Generation)**
-- 🌐 **GraphRAG**
-- ⚙️ **Distributed Systems**
-- ☁️ **Cloud Computing**
+- 🚗 **차량 전장 소프트웨어 플랫폼**
+- 📡 **OTA(Over-The-Air) 업데이트 서버 & 인프라**
+- 🧩 **백엔드 아키텍처 & 마이크로서비스**
+- 🗄️ **RDB / NoSQL & GraphDB 데이터 모델링**
+- ☁️ **AWS 기반 클라우드 인프라**
+- ⚙️ **대규모 트래픽/안정성 및 성능 튜닝**
 
 <br><br>
 
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooniq&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=Wooniq&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wooniq&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
-<div align="center">  
-
-<br>
-<!-- My CV/resume -->
-<details>
-<summary>Click Here !</summary>
-<br>
-    
-<span>
-    <a href="https://dandy-august-e2c.notion.site/Pro-grammer-79ef93df52eb48a7bfd5c8b4bc664b2c?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-white?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:intothexx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/7h.05m/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<br><br>
-
-## 👤 About Me
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=5A5A5A&center=true&vCenter=true&width=435&lines=++++++++++Code+my+Excitement!)](https://git.io/typing-svg)
-
-**Name:** Han JiWoon  
-**Date of Birth:** July 5, 2003
-
-<br>
 <!-- PS level -->
 <div align="center">
   <a href="https://solved.ac/agn705/">
@@ -153,45 +118,8 @@ I enjoy tackling challenging problems, writing clean and efficient code, and con
   </a>
 </div>
 
-🩶Feel free to contect Me !🩶
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooniq&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=Wooniq&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 
-</div>
-
-</details>
 
 <br><br>
-  
-<!-- My snake 
-<!--![snake gif](https://github.com/Wooniq/Wooniq/blob/output/github-contribution-grid-snake.svg)-->
-
-<div align="center">  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Wooniq&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/Wooniq"
-    width="600"
-    height="120"
-  />
-</a></div>
-<br><br><br><br>
-
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
-
-<!--
-**Wooniq/Wooniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br>
-
