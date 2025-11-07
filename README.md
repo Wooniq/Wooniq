@@ -35,7 +35,7 @@ CPU, 메모리, 쿼리 한 번까지 아껴 쓰면서도 **사용자는 느리�
 
 * #### 한성대학교 HSD 앱 서버 근로
   **Role:** **스쿨버스 앱 유지 보수**, Student Worker<br>
- **Period:** June 2024 - August 2024
+ **Period:** June 2024 - Dec 2024
 
 
 ### 📝 Publications
