@@ -31,13 +31,19 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
   **Period:** Jun 2024 – Dec 2024
 
 
-
 ### Publications
-- **[Paper 1]** *A Study on Applying GraphRAG to EPUB Readers*  
-  (Original title: EPUB 리더기의 GraphRAG 활용에 관한 연구)
 
-- **[Paper 2]** *An EPUB Reader with Enhanced Retrieval and Reasoning using GraphRAG*  
-  (Published in a KCI-indexed journal)
+- **A Study on Applying GraphRAG to EPUB Readers**  
+  *(Original title: EPUB 리더기의 GraphRIG 활용에 관한 연구)*  
+  🔗 [PDF](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
+
+- **An EPUB Reader with Enhanced Retrieval and Reasoning using GraphRAG**  
+  *(Original title: GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더)*  
+  📑 Published in a **KCI (Korea Citation Index) indexed journal**  
+  🔗 [PDF](https://github.com/user-attachments/files/18278657/GraphRAG.EPUB.pdf)  
+  🔗 [KCI Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003160624)  
+  🔗 [Journal Link](http://jiibc.kr/bbs/board.php?bo_table=collect_paper&wr_id=3171&yy=2024)
+
 
 
 ### Awards
