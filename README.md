@@ -37,7 +37,7 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
   *(Original title: EPUB 리더기의 GraphRAG 활용에 관한 연구)*  
   🔗 [PDF](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
 
-- **An EPUB Reader with Enhanced Retrieval and Reasoning using GraphRAG**  
+- **EPUB Reader with Advanced Search and Inference Functions using GraphRAG**  
   *(Original title: GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더)*  
   📑 Published in a **KCI (Korea Citation Index) indexed journal**  
   🔗 [PDF](https://github.com/user-attachments/files/18278657/GraphRAG.EPUB.pdf)  
