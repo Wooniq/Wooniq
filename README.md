@@ -33,7 +33,7 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 ### Publications
 
-- **A Study on Applying GraphRAG to EPUB Readers**  
+- **A Study on utilizing GraphRAG on EPUB Reader**  
   *(Original title: EPUB 리더기의 GraphRAG 활용에 관한 연구)*  
   🔗 [PDF](https://github.com/user-attachments/files/17943916/EPUB.GraphRAG.pdf)
 
