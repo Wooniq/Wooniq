@@ -1,4 +1,4 @@
-### Research & System Architecture 🐬
+### Building Backend & Cloud-native System Architectures 🐬
 
 I build backend systems that stay **fast, efficient, and stable** under heavy load.  
 My work focuses on **performance-oriented architecture** using Java/Spring,  
@@ -13,6 +13,10 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 
 ### Experience
+
+* #### Hyundai AutoEver Mobility SW School (Cloud Track, 3rd Cohort)
+  **Role:** Trainee in cloud-native application development, covering containerization, CI/CD, and cloud infrastructure fundamentals  
+  **Period:** Dec 2025 – Present
 
 * #### Undergraduate Researcher
   **Role:** Research on a GraphRAG-based EPUB reader, including data modeling and system implementation  
