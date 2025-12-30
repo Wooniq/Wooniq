@@ -12,6 +12,10 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 > 2022.03 - Senior in Computer Engineering, Hansung University
 
 
+### Certifications
+- Engineer Information Processing (정보처리기사, National Technical Qualification, Korea)
+
+
 ### Experience
 
 * #### Hyundai AutoEver Mobility SW School (Cloud Track, 3rd Cohort)
