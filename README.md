@@ -68,6 +68,8 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 <p align="left">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
+ <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-framework"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/></a>
   <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
@@ -78,16 +80,27 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 <p align="left">
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
+ <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white"/></a>
   <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white"/></a>
   <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
 </p>
 
-<h4 align="left">☁️ Cloud / Infra</h4>
+<h4 align="left">☁️ Cloud / Infra & DevOps</h4>
 
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+ <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>
  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
+ <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/DevOps-%23666666.svg?style=flat-square&logo=azure-devops&logoColor=white"/>
+</p
+
+ <h4 align="left">📊 Monitoring</h4>
+
+<p align="left">
+  <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white"/></a>
+  <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white"/></a>
 </p>
 
 <h4 align="left">🔧 Tools</h4>
