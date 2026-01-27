@@ -18,7 +18,7 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 ### Experience
 
-* #### Hyundai AutoEver Mobility SW School (Cloud Track, 3rd Cohort)
+* #### HYUNDAI AUTOEVER Mobility SW School (Cloud Track, 3rd Cohort)
   **Role:** Trainee in cloud-native application development, covering containerization, CI/CD, and cloud infrastructure fundamentals  
   **Period:** Dec 2025 – Present
 
