@@ -69,8 +69,10 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 <p align="left">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/></a>
  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/></a>
+ <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/></a>
+ <a href="https://spring.io/projects/spring-framework"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/></a>
-  <a href="https://spring.io/projects/spring-framework"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
+ <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=flat-square&logo=apachekafka&logoColor=white"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/></a>
   <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
 </p>
