@@ -85,6 +85,8 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white"/></a>
   <a href="https://www.arangodb.com/"><img src="https://img.shields.io/badge/ArangoDB-%23007ACC.svg?style=flat-square&logo=arangodb&logoColor=white"/></a>
   <a href="https://neo4j.com/"><img src="https://img.shields.io/badge/Neo4j-%2300CC96.svg?style=flat-square&logo=neo4j&logoColor=white"/></a>
+ <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/></a>
+ <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white"/></a>
 </p>
 
 <h4 align="left">☁️ Cloud / Infra & DevOps</h4>
