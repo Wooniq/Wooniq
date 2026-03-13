@@ -14,7 +14,7 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 ### Certifications
 - Engineer Information Processing (정보처리기사, 2025.09)
-- TOEIC Speaking IM3 (2026.03)
+- TOEIC Speaking **IM3** (2026.03)
 
 
 ### Experience
