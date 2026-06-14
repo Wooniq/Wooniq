@@ -76,6 +76,7 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/></a>
  <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=flat-square&logo=apachekafka&logoColor=white"/></a>
+ <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-%230F9D58.svg?style=flat-square&logo=google&logoColor=white"/></a>
 </p>
 
 <h4 align="left">🗄️ Databases</h4>
@@ -99,7 +100,13 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/></a>
  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/DevOps-%23666666.svg?style=flat-square&logo=azure-devops&logoColor=white"/>
-</p
+ <a href="https://istio.io/"><img src="https://img.shields.io/badge/Istio-%23466BB0.svg?style=flat-square&logo=istio&logoColor=white"/></a>
+<a href="https://konghq.com/"><img src="https://img.shields.io/badge/Kong-%23003459.svg?style=flat-square&logo=kong&logoColor=white"/></a>
+<a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white"/></a>
+<a href="https://goharbor.io/"><img src="https://img.shields.io/badge/Harbor-%2360B932.svg?style=flat-square&logo=harbor&logoColor=white"/></a>
+<a href="https://argoproj.github.io/cd/"><img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white"/></a>
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white"/></a>
+</p>
 
  <h4 align="left">📊 Monitoring</h4>
 
