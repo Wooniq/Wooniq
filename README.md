@@ -20,25 +20,44 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 ### Experience
 
 * #### HYUNDAI AUTOEVER Mobility SW School (Cloud Track, 3rd Cohort)
-  **Role:** Trainee in cloud-native application development, covering containerization, CI/CD, and cloud infrastructure fundamentals  
-  **Period:** Dec 2025 – Present
+  **Role:** Cloud-native application development with MSA, Kubernetes, CI/CD, and DevOps practices  
+  **Period:** Dec 2025 – Jun 2026
+
+  - Designed and implemented MSA-based mobility services using Spring Boot
+  - Built Kubernetes-based deployment environments and GitOps pipelines
+  - Developed backend services with gRPC communication and event-driven architecture
 
 * #### Undergraduate Researcher
   **Role:** Research on a GraphRAG-based EPUB reader, including data modeling and system implementation  
   **Period:** Aug 2024 – Feb 2025  
 
+  - Developed a GraphRAG-based question-answering system for EPUB documents using knowledge graph modeling.
+  - Designed data pipelines for extracting and managing relationships between document entities.
+  - Implemented explainable retrieval and visualization features using Neo4j and graph-based approaches.
+
 * #### Teaching Assistant, Dept. of Computer Engineering
   **Role:** Supported introductory major courses and practical sessions  
   **Period:** Sep 2025 – Dec 2025
+
+  - Assisted web programming labs covering HTML, CSS, and JavaScript fundamentals.
+  - Helped students debug implementation issues and provided technical guidance during team projects.
+  - Evaluated assignments and supported students in improving their development skills.
 
 * #### LikeLion (멋쟁이사자처럼), Hansung University
   **Role:** Backend Track — Spring-based web service development  
   **Period:** Mar 2024 – Dec 2024
 
+  - Developed backend services using Spring Boot and REST API design principles.
+  - Designed database schemas and implemented CRUD-based web service features.
+  - Collaborated with team members through Git-based workflow and iterative development.
+
 * #### HSD App Server Developer, Hansung University
   **Role:** Maintenance and feature improvements for the campus school-bus application  
   **Period:** Jun 2024 – Dec 2024
 
+  - Maintained and improved backend services for the university shuttle bus application.
+  - Handled API integration, server monitoring, and production issue troubleshooting.
+  - Optimized service reliability by improving exception handling and reducing unnecessary server operations.
 
 ### Publications
 
@@ -56,6 +75,10 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 
 ### Awards
+* [2026.06.30] 현대오토에버 모빌리티 SW 스쿨 3기 Cloud 과정 **모범상 · 우수 프로젝트상(2회)**
+  - Project: 현대오토에버 클라우드 프로젝트
+  - Team: WanderPool, Watt-Up
+  - Organization: 주식회사 현대오토에버 · 주식회사 현대엔지비 · 한국전파진흥협회
 * [2025.05.26] 한성발전공헌상 </br>
 * [2025.02.07] 제11회 한성대학교 C&C Festival(창의융합성과 경진대회) **대상** </br>
 * [2024.11.27] 2024 SW중심대학 연합 SW FESTIVAL (빅데이터/인공지능 부문) **장려상** </br>
