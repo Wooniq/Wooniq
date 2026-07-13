@@ -19,13 +19,13 @@ and technologies like **GraphRAG** to build more intelligent and resilient platf
 
 ### Experience
 
-#### Samsung Software Academy For Youth (SSAFY, 16th Cohort, Java Track)
-**Role:** Backend software engineering training focused on Java, Spring Boot, algorithms, and software engineering fundamentals  
-**Period:** Jul 2026 – Present
+* #### Samsung Software Academy For Youth (SSAFY, 16th Cohort, Java Track)
+  **Role:** Backend software engineering training focused on Java, Spring Boot, algorithms, and software engineering fundamentals  
+  **Period:** Jul 2026 – Present
 
-- Strengthening problem-solving skills through intensive algorithm and coding test training
-- Developing backend applications using Java, Spring Boot, REST APIs, and relational databases
-- Building team projects with agile collaboration and software development best practices
+  - Strengthening problem-solving skills through intensive algorithm and coding test training
+  - Developing backend applications using Java, Spring Boot, REST APIs, and relational databases
+  - Building team projects with agile collaboration and software development best practices
 
 * #### HYUNDAI AUTOEVER Mobility SW School (Cloud Track, 3rd Cohort)
   **Role:** Cloud-native application development with MSA, Kubernetes, CI/CD, and DevOps practices  
