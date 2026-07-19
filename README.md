@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A67,100:4F8EF7&height=180&section=header&text=Han%20JiWoon&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Backend%20Engineer&descAlignY=48&descSize=18&animation=fadeIn" width="100%"/>
 안녕하세요, 백엔드 엔지니어 한지운입니다 👩🏻‍💻
 
-**101%의 성능 향상보다, 1%의 오차를 남기지 않는 데 집중합니다.**
+**101%의 성능 향상보다, 1%의 오차를 남기지 않는 데 몰입합니다.**
 
 </div>
 <br>
@@ -13,7 +13,7 @@
 
 ## About
 
-**분산 시스템**과 **AI 파이프라인**을 결합해, 남들이 시도하지 않았던 데이터 흐름도 설계해 냅니다.
+**분산 시스템**과 **AI 파이프라인**을 결합해, 남들이 시도하지 않았던 데이터 흐름을 설계해 냅니다.
 
 - Outbox Pattern 적용을 통한 MSA 환경 데이터 정합성 및 이벤트 유실 리스크 최소화
 - CQRS 및 Debezium CDC 기반 PostgreSQL-MongoDB 이기종 데이터 실시간 동기화 구조 구현
